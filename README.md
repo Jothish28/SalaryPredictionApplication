@@ -52,7 +52,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/SalaryPredictionApplication.git
+   git clone https://github.com/Jothish28 /SalaryPredictionApplication.git
    ```
 
 2. **Navigate to the Project Directory**:
